@@ -1,0 +1,1 @@
+A personal portfolio website showcasing skills, projects, and experiences in web development. Built with HTML, CSS, and JavaScript, it features a clean and responsive design, an about section, a project gallery, and contact forms for potential collaborations. Ideal for sharing your professional journey and work samples.
